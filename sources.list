@@ -1,3 +1,0 @@
-deb http://srnalmdes203.eng.gsnetcloud.corp:8081/repository/debian_proxy jessie main
-deb http://srnalmdes203.eng.gsnetcloud.corp:8081/repository/debian_proxy jessie-updates main
-deb http://srnalmdes203.eng.gsnetcloud.corp:8081/repository/debian_security_proxy jessie/updates main
