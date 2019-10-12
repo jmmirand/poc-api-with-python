@@ -1,0 +1,7 @@
+flask
+flask_restful
+flask_restplus==0.10.1
+mock
+nosexcover
+pylint
+nose
